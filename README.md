@@ -10,4 +10,8 @@ Upload Blog
 <img width="956" alt="Screenshot 2022-11-29 221758" src="https://user-images.githubusercontent.com/83641122/204597368-0718726e-2b5e-46c6-be80-d0d84f8aa954.png">
 Final Page
 <img width="958" alt="Screenshot 2022-11-29 221830" src="https://user-images.githubusercontent.com/83641122/204597421-6703bbf4-c87a-4110-83a2-dd934a50ff52.png">
-To Run this go to main directory run npm install after that run nodemon thats it.
+To Run this go to root directory run npm install 
+create .env file in root directory 
+In .env write DATABASE= your database link .
+Run nodemon.
+
